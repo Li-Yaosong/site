@@ -1,0 +1,10 @@
+{
+    "input": "./server.js",
+    "output": "./site.exe",
+    "resources": [
+      "server.js"
+    ],
+    "build": true,
+    "node-version": "18"
+  }
+  
